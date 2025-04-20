@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "Firefox Tab Groups (Sidebar)",
+    "version": "1.0",
+    "description": "A sidebar extension that groups tabs in Firefox.",
+    "permissions": [
+      "tabs"
+    ],
+    "sidebar_action": {
+      "default_title": "Tab Groups",
+      "default_panel": "sidebar.html"
+    },
+    "icons": {
+      "48": "icons/icon-48.png"
+    }
+  }
+  
